@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=DEMON1A">
 
 ### About me :dizzy:
-- I'm a python developer and bug bounty hunter for almost two years now. i enjoy creating open-source tools that helps people automating what they're doing. i did create some cool projects like easyShell, Discord-Recon, WEngine, VCS, ..etc. i'm currently focusing on whitebox testing. if you need anything you can send me an email.
+- I'm a python developer and bug bounty hunter for almost two years now. i enjoy creating open-source tools that helps people automating what they're doing. i did create some cool projects like easyShell, Discord-Recon, WEngine, VCS, ..etc.
 
 ## Wanna support me?
 <p align="center">
