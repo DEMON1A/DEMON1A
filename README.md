@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEMON1A">
+  <a href="https://twitter.com/DemoniaSlash">
+    <img src="https://img.shields.io/twitter/follow/DemoniaSlash?style=flat-square">
+  </a>
 </p>
 
 <!--
@@ -24,11 +27,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://patreon.com/MohammedDief">
   <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DMohammedDief%26type%3Dpatrons&style=for-the-badge" />
-</a>
-<br>
-  
-<a href="https://twitter.com/DemoniaSlash">
-  <img src="https://img.shields.io/twitter/follow/DemoniaSlash?style=flat-square">
 </a>
 <br>
 
