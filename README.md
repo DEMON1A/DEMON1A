@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEMON1A">
-  <a href="https://twitter.com/DemoniaSlash">
+  <a href="https://twitter.com/DemoniaSlash" target="_blank">
     <img src="https://img.shields.io/twitter/follow/DemoniaSlash?style=flat-square">
   </a>
 </p>
