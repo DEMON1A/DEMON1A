@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I'm a python developer and bug bounty hunter for almost two years now. i enjoy creating open-source tools that helps people automating what they're doing specially for hacking things. i did create some cool projects like easyShell, Discord-Recon, WEngine, VCS, ..etc. that's purly made in python. I'm focusing on whitebox testing. Feel free to contact me if you need anything. i'm online most of the time.
 
 
-## Wanna support me?
+## Wanna support me? :heart:
 <p align="center">
 <a href="https://patreon.com/MohammedDief">
   <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DMohammedDief%26type%3Dpatrons&style=for-the-badge" />
