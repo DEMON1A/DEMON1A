@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### About me :dizzy:
 - I'm a python developer and bug bounty hunter for almost two years now. i enjoy creating open-source tools that helps people automating what they're doing. i did create some cool projects like easyShell that's using it's own scripting language to do a lot of stuff. it's 100% built-in python without using external libraries except colors libraries and play sound. i like hacking open-source projects more.
 
-## Support Me?
+## Wanna support me?
 <p align="center">
 <a href="https://patreon.com/MohammedDief">
   <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DMohammedDief%26type%3Dpatrons&style=for-the-badge" />
