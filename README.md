@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 ## Wanna support me? :heart:
 <p align="center">
 <a href="https://patreon.com/MohammedDief">
-  <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DMohammedDief%26type%3Dpatrons&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
 </a>
-<br>
 
 <a href="https://www.paypal.me/MohammedDieff/">
-  <img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 </p>
