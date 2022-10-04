@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I'm a python developer and bug bounty hunter for three years now. i enjoy creating open-source tools that helps people automating what they're doing specially for hacking things. i did create some cool projects like easyShell, Discord-Recon, WEngine, VCS, ..etc. that's purly written in python. Feel free to contact me if you need anything about security or development, i'm online most of the time
 
 
-## Wanna support me? :heart:
+## Wanna support my work? :heart:
 <p align="center">
 <a href="https://patreon.com/MohammedDief">
   <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
