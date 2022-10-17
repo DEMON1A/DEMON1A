@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👯 I don't collaborate with anyone.
+- 👯 I'm up for collaboration at the moment
 - 📫 You can reach me via email: mdaif1332@gmail.com
 
 <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=DEMON1A">
